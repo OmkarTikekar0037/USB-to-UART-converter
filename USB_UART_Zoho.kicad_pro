@@ -850,7 +850,7 @@
       {
         "filename": "USB_UART_Zoho.kicad_sch",
         "name": "USB_UART_Zoho",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "04430ea8-bdcd-4b4a-bfd9-16e0e9121bf7"
       }
     ],
     "used_designators": "",
@@ -859,7 +859,7 @@
   "sheets": [
     [
       "04430ea8-bdcd-4b4a-bfd9-16e0e9121bf7",
-      "Root"
+      "USB_UART_Zoho"
     ]
   ],
   "text_variables": {},
