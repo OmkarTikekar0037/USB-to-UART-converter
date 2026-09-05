@@ -210,7 +210,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.1524
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -468,7 +469,7 @@
       "isolated_pin_label": "warning",
       "label_dangling": "error",
       "label_multiple_wires": "warning",
-      "lib_symbol_issues": "warning",
+      "lib_symbol_issues": "ignore",
       "lib_symbol_mismatch": "warning",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
@@ -484,7 +485,7 @@
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
-      "similar_labels": "warning",
+      "similar_labels": "ignore",
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
       "single_global_label": "error",
@@ -853,7 +854,7 @@
         "uuid": "04430ea8-bdcd-4b4a-bfd9-16e0e9121bf7"
       }
     ],
-    "used_designators": "J1-3",
+    "used_designators": "#FLG1,J1-3",
     "variants": []
   },
   "sheets": [
