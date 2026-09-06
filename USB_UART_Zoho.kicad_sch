@@ -5075,7 +5075,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 59.3852 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -6389,7 +6389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 51.7652 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -6780,10 +6780,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b3085fc8-a664-46a1-8309-badd66e74728")
 		(property "Reference" "J1"
-			(at 124.46 76.2 0)
+			(at 124.46 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6794,6 +6793,7 @@
 		)
 		(property "Value" "Conn_02x08_Counter_Clockwise"
 			(at 124.46 78.74 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6925,7 +6925,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 64.4652 91.44 0)
 			(hide yes)
 			(show_name no)
